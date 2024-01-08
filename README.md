@@ -1,3 +1,3 @@
-# BulmaCSS Dropdown Navbar
+# BulmaCSS Navbar
 
 Hazır navbar örneği
